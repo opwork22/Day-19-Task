@@ -14,3 +14,13 @@ git init :-it used if the project is already developed and want to upload the re
 Steps to add the present project to GITHUB:
 
 Step 1: 
+git init
+
+step2:
+git remote add origin https://github.com/opwork22/ollama_rag_project.git
+
+step 3:
+git branch -M main
+
+step 4:
+git push -u origin main
