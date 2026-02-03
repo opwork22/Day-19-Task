@@ -7,6 +7,8 @@ git add . :-is a Git command used to stage all modified and new files in the cur
 
 git commit -m "comment"  :- It is used to commit the changes. -m is used for commit message.
 
+git push origin main :- push the code in the github repo.
+
 git init :-it used if the project is already developed and want to upload the repo.
 
 Steps to add the present project to GITHUB:
