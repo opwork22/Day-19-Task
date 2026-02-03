@@ -22,5 +22,4 @@ git remote add origin https://github.com/opwork22/ollama_rag_project.git
 step 3:
 git branch -M main
 
-step 4:
-git push -u origin main
+
