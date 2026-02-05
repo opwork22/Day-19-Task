@@ -34,3 +34,5 @@ git branch :- to know which branch you are working
 git branch master :- to make the new file
 
 git switch master :- use different branch
+
+git checkout main :- it is used for changing the branch
