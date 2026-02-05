@@ -31,4 +31,6 @@ Branch:
 
 git branch :- to know which branch you are working
 
+git branch master :- to make the new file
 
+git switch master :- use different branch
