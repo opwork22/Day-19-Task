@@ -24,3 +24,9 @@ git branch -M main
 
 step 4:
 git push -u origin main
+
+
+Branch:
+
+git branch :- to know which branch you are working
+
