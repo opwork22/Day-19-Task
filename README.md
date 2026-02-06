@@ -36,5 +36,3 @@ git branch master :- to make the new file
 git switch master :- use different branch
 
 git checkout main :- it is used for changing the branch
-
-hello
